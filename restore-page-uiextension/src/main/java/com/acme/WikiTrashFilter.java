@@ -6,7 +6,7 @@ import javax.jcr.Node;
 import org.exoplatform.webui.ext.filter.UIExtensionAbstractFilter;
 import org.exoplatform.webui.ext.filter.UIExtensionFilterType;
 
-public class MyUIFilter extends UIExtensionAbstractFilter {
+public class WikiTrashFilter extends UIExtensionAbstractFilter {
     /*
         * This method checks if the current node is a file.
     */

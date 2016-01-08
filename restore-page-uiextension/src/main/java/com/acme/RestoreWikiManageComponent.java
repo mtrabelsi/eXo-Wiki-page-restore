@@ -46,7 +46,7 @@ public class RestoreWikiManageComponent extends UIAbstractManagerComponent {
 
     private static final List<UIExtensionFilter> FILTERS =
         Arrays.asList(  new UIExtensionFilter[]{
-                            new MyUIFilter(),
+                            new WikiTrashFilter(),
                             new IsNotLockedFilter(),
                             new IsCheckedOutFilter(),
                             new HasRemovePermissionFilter()
