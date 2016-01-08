@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.gatein.mop:mop-spi:1.2.0.Final">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gatein/mop/mop-spi/1.2.0.Final/mop-spi-1.2.0.Final.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gatein/mop/mop-spi/1.2.0.Final/mop-spi-1.2.0.Final-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/gatein/mop/mop-spi/1.2.0.Final/mop-spi-1.2.0.Final-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

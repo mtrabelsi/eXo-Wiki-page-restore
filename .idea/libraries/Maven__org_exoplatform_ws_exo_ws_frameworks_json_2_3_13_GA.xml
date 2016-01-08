@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.ws:exo.ws.frameworks.json:2.3.13-GA">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/ws/exo.ws.frameworks.json/2.3.13-GA/exo.ws.frameworks.json-2.3.13-GA.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/ws/exo.ws.frameworks.json/2.3.13-GA/exo.ws.frameworks.json-2.3.13-GA-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/ws/exo.ws.frameworks.json/2.3.13-GA/exo.ws.frameworks.json-2.3.13-GA-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

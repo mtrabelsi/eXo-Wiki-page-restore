@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.commons:commons-comet-service:4.2.1-CP01">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/commons/commons-comet-service/4.2.1-CP01/commons-comet-service-4.2.1-CP01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/commons/commons-comet-service/4.2.1-CP01/commons-comet-service-4.2.1-CP01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/commons/commons-comet-service/4.2.1-CP01/commons-comet-service-4.2.1-CP01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

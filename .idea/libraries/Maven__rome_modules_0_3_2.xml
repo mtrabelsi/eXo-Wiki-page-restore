@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: rome:modules:0.3.2">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/rome/modules/0.3.2/modules-0.3.2.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/rome/modules/0.3.2/modules-0.3.2-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/rome/modules/0.3.2/modules-0.3.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

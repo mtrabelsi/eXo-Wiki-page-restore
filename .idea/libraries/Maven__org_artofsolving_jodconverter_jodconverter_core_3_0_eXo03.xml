@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.artofsolving.jodconverter:jodconverter-core:3.0-eXo03">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/artofsolving/jodconverter/jodconverter-core/3.0-eXo03/jodconverter-core-3.0-eXo03.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/artofsolving/jodconverter/jodconverter-core/3.0-eXo03/jodconverter-core-3.0-eXo03-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/artofsolving/jodconverter/jodconverter-core/3.0-eXo03/jodconverter-core-3.0-eXo03-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

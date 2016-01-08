@@ -1,26 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
-    <parent>
-        <groupId>org.exoplatform.addons</groupId>
-        <artifactId>addons-parent-pom</artifactId>
-        <version>6</version>
-    </parent>	
     <modelVersion>4.0.0</modelVersion>
+    <parent>
+        <groupId>org.exoplatform.addons.restore-wiki-page</groupId>
+        <artifactId>restore-wiki-page-addon-parent</artifactId>
+        <version>1.0-SNAPSHOT</version>
+    </parent>	
     <groupId>org.exoplatform.addons.restore-wiki-page</groupId>
-    <artifactId>restore-wiki-page-addon-parent</artifactId>
+    <artifactId>uiextension</artifactId>
     <version>1.0-SNAPSHOT</version>
-    <packaging>pom</packaging>
+    <packaging>jar</packaging>
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <org.gatein.portal.version>4.2.1-CP01-PLF</org.gatein.portal.version>
         <org.exoplatform.commons.version>4.2.1-CP01</org.exoplatform.commons.version>
         <org.exoplatform.ecms.version>4.2.1-CP01</org.exoplatform.ecms.version>
     </properties>
-    <modules>
-        <module>restore-page-uiextension</module>
-        <module>packaging</module>
-    </modules>
     <dependencies>
         <dependency>
             <groupId>org.gatein.portal</groupId>
@@ -38,7 +34,6 @@
             <groupId>org.exoplatform.ecms</groupId>
             <artifactId>ecms-core-webui-explorer</artifactId>
             <version>${org.exoplatform.ecms.version}</version>
-            <scope>provided</scope>
         </dependency>
     </dependencies>
 </project>

@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: org.exoplatform.jcr:exo.jcr.component.core:1.15.14-CP01">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/jcr/exo.jcr.component.core/1.15.14-CP01/exo.jcr.component.core-1.15.14-CP01.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/jcr/exo.jcr.component.core/1.15.14-CP01/exo.jcr.component.core-1.15.14-CP01-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/exoplatform/jcr/exo.jcr.component.core/1.15.14-CP01/exo.jcr.component.core-1.15.14-CP01-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
