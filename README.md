@@ -24,6 +24,8 @@ A message will inform you about the operation result:
 
 ![Alt text](https://github.com/smartytwiti/eXo-Wiki-page-restore/blob/master/doc/restored.png "Success")
 
+When another page with the same name already in the wiki. You can't restore that page until you rename or delete the duplicated page:
+
 ![Alt text](https://github.com/smartytwiti/eXo-Wiki-page-restore/blob/master/doc/erroHandling.png "Fail")
 
 # Translation
