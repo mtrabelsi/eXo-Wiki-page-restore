@@ -1,4 +1,4 @@
-package com.acme;
+package org.exoplatform.restorewikipage;
 
 import java.util.Map;
 import javax.jcr.Node;

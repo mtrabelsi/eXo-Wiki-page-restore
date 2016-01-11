@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/action-restore.iml" filepath="$PROJECT_DIR$/action-restore.iml" />
+      <module fileurl="file://$PROJECT_DIR$/packaging/restore-wiki-addon-packaging.iml" filepath="$PROJECT_DIR$/packaging/restore-wiki-addon-packaging.iml" />
+      <module fileurl="file://$PROJECT_DIR$/restore-page-uiextension/uiextension.iml" filepath="$PROJECT_DIR$/restore-page-uiextension/uiextension.iml" />
     </modules>
   </component>
 </project>

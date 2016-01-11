@@ -22,11 +22,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
-        <module name="action-restore" />
+        <module name="uiextension" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="action-restore" target="1.5" />
+      <module name="action-restore" target="1.7" />
+      <module name="restore-wiki-addon-packaging" target="1.7" />
+      <module name="uiextension" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
