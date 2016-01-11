@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c5df3848-ace5-4234-a831-71c36261aac3" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/packaging/restore-wiki-addon-packaging.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/restore-page-uiextension/uiextension.iml" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/restore-page-uiextension/src/main/java/com/acme/RestoreWikiManageComponent.java" afterPath="$PROJECT_DIR$/restore-page-uiextension/src/main/java/org/exoplatform/restorewikipage/RestoreWikiManageComponent.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/restore-page-uiextension/src/main/java/com/acme/WikiTrashFilter.java" afterPath="$PROJECT_DIR$/restore-page-uiextension/src/main/java/org/exoplatform/restorewikipage/WikiTrashFilter.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/restore-page-uiextension/src/main/resources/locale/com/acme/RestoreWikiPage_en.properties" afterPath="$PROJECT_DIR$/restore-page-uiextension/src/main/resources/locale/org/exoplatform/restorewikipage/RestoreWikiPage_en.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/action-restore.iml" afterPath="$PROJECT_DIR$/action-restore.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/restore-page-uiextension/src/main/resources/conf/portal/configuration.xml" afterPath="$PROJECT_DIR$/restore-page-uiextension/src/main/resources/conf/portal/configuration.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
     </list>
     <ignored path="action-restore.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -47,13 +36,32 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/packaging/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0661157">
+            <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7758621">
+              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+            <state />
+          </provider>
+          <provider editor-type-id="MarkdownPreviewEditor">
+            <state />
           </provider>
         </entry>
       </file>
@@ -71,6 +79,7 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/restore-page-uiextension/src/main/java/org/exoplatform/restorewikipage/RestoreWikiManageComponent.java" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -532,10 +541,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/packaging/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-0.0661157">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7758621">
+          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxHtmlEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MultiMarkdownFxPreviewEditor">
+        <state />
+      </provider>
+      <provider editor-type-id="MarkdownPreviewEditor">
+        <state />
       </provider>
     </entry>
   </component>
